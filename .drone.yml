@@ -1,3 +1,4 @@
 pipeline:
   build:
-    commands: sudo apt-get update
+    image: node:latest
+    commands: npm install
