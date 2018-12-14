@@ -1,0 +1,3 @@
+pipeline:
+  build:
+    commands: sudo apt-get update
